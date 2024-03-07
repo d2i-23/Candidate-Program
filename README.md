@@ -7,17 +7,21 @@ There are two folders, one for the backend(folder: server), and the other for th
 
 # Terminal 1
 
-```cd Candidate-Program-main```
-```cd server```
-```npm install```
-```npm run dev```
+```
+cd Candidate-Program-main
+cd server
+npm install
+npm run dev
+```
+
 
 # Terminal 2 
 
-```cd Candidate-Program-main```
-```cd client/my-app```
-```npm install```
-```npm start```
-
+```
+cd Candidate-Program-main
+cd client/my-app
+npm install
+npm start
+```
 
 The react application should load and you will see it. 
